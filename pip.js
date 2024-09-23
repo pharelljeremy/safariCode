@@ -1,0 +1,1 @@
+javascript:((v)=%3Ev.webkitSetPresentationMode(v.webkitPresentationMode=='inline'?'picture-in-picture':'inline'))(document.querySelector('video'))
