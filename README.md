@@ -1,0 +1,1 @@
+open the java script file and enable developer setting on safari save the java script file and then go to system settings>keyboard>keyboard shortcuts and go to apllications create  a keyboard binding to the respective shortcut
